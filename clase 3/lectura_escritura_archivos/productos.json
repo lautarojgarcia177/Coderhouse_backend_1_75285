@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Dell XPS 13",
+    "description": "Ultrabook con pantalla InfinityEdge de 13.3 pulgadas",
+    "code": "LTXPS13",
+    "price": 1500,
+    "status": true,
+    "stock": 12,
+    "category": "Tecnología",
+    "thumbnails": ["img/laptop1.jpg", "img/laptop2.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Smartphone Samsung Galaxy S24",
+    "description": "Smartphone de alta gama con cámara cuadruple y 512GB",
+    "code": "SGS24",
+    "price": 9999,
+    "status": true,
+    "stock": 30,
+    "category": "Telefonía",
+    "thumbnails": ["img/galaxy1.jpg"]
+  },
+  {
+    "id": 3,
+    "title": "Auriculares Bluetooth Sony WH-1000XM4",
+    "description": "Auriculares inalámbricos con cancelación activa de ruido",
+    "code": "SONYWH1000XM4",
+    "price": 350,
+    "status": true,
+    "category": "Audio",
+    "thumbnails": ["img/sony1.jpg", "img/sony2.jpg"]
+  },
+  {
+    "id": 4,
+    "title": "Monitor LG UltraWide 34\"",
+    "description": "Monitor 21:9 ideal para productividad y gaming",
+    "code": "LGUW34",
+    "price": 700,
+    "status": true,
+    "category": "Periféricos",
+    "thumbnails": ["img/lgmonitor.jpg"]
+  },
+  {
+    "id": 5,
+    "title": "Teclado mecánico Logitech G Pro",
+    "description": "Teclado compacto con switches GX Blue y RGB personalizable",
+    "code": "LOGIGPRO",
+    "price": 120,
+    "status": true,
+    "category": "Periféricos",
+    "thumbnails": ["img/logitechg.jpg"]
+  }
+]
