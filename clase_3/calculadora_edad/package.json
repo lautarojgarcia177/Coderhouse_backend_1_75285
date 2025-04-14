@@ -1,0 +1,15 @@
+{
+  "name": "calculadora-edad",
+  "version": "1.0.0",
+  "main": "calculadora_edad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lautaro Jorge Garcia",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "type": "module"
+}
