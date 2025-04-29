@@ -1,0 +1,13 @@
+<ul>
+  {{#if isAdmin}}
+    {{#each pets}}
+      <li>
+        Nombre:
+        {{this.name}}, Tipo:
+        {{this.type}}
+      </li>
+    {{/each}}
+  {{else}}
+    <p>No tienes permisos para ver la lista de alimentos</p>
+  {{/if}}
+</ul>
